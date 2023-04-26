@@ -8,6 +8,7 @@ import {
   Possibility,
   WhatGBT3,
 } from "./containers";
+import "./App.css";
 
 const App = () => {
   return (
