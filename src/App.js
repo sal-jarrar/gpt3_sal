@@ -6,7 +6,7 @@ import {
   Blog,
   Features,
   Possibility,
-  WhatGBT3,
+  WhatGPT3,
 } from "./containers";
 import "./App.css";
 
@@ -18,7 +18,7 @@ const App = () => {
         <Header />
       </div>
       <Brand />
-      <WhatGBT3 />
+      <WhatGPT3 />
       <Features />
       <Possibility />
       <CTA />
